@@ -1,0 +1,8 @@
+Participants
+Participants in the study were 56 healthy controls and 48 schizophrenia outpatients.
+Healthy controls were recruited from the community for single-session assessments of affect recognition and met the following inclusion criteria: no Axis I psychiatric diagnosis, aged 18-65, no visual or auditory impairment that would interfere with study procedures, and no documented mental retardation.
+Schizophrenia patients were recruited as part of an ongoing study of cognitive remediation in schizophrenia at VA Connecticut Healthcare System and met the following inclusion criteria: Axis I diagnosis of schizophrenia or schizoaffective disorder, aged 18-65, no current substance dependence, psychiatric stability as evidenced by no medication changes and no housing changes in past 30 days.
+All diagnostic interviews were performed by the first author using the Structured Clinical Interview for DSM-IV (SCID; First et al., 1996).
+For the current analyses, affect recognition data from healthy community controls were only used to establish guidelines for what constitutes normal-range performance.
+All other analyses were performed only for the schizophrenia sample, using baseline affect recognition, neurocognition and functioning data.
+The local Institutional Review Boards approved study protocols, and all participants signed written informed consent.

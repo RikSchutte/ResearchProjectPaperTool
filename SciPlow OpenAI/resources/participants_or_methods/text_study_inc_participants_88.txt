@@ -1,0 +1,17 @@
+Participants
+The pre-test (T 0 ) questionnaire was completed by 142 women, after which 63 women were randomly assigned to the intervention group and 79 to the control group.
+The first post-test (T 1 ) questionnaire, at about six weeks after T 0 (i.e., immediately after the end of the course), was completed by 46 women in the intervention group and 73 in the control group, and the second post-test (T 2 ) questionnaire, at about six months after T 0 , was completed by 36 women in the intervention group and 62 controls.
+A total of 13 women dropped out before the end of the intervention.
+The reasons for drop-out were diverse.
+Some women felt that the intervention was too much of a mental or physical burden; some felt that they did not fit in with the group; and others felt that they did not learn anything new from the intervention.
+Four other women did not even attend the first meeting.
+When they were phoned by the researcher they were either ill, had doubts about participation or were unable to schedule the intervention in their agenda.
+Another group of drop-outs consisted of women who did not return the first posttest (T 1 ) questionnaire (0 intervention, 6 controls) or the second post-test (T 2 ) questionnaire (10 intervention, 11 controls).
+The unequal drop-out rates could have affected the reliability of the statistical analysis.
+We therefore tested the equality of variances.
+All values were non-significant, indicating that the unequal group-sizes were no problem.
+Table I shows that there was no significant difference between the baseline characteristics of the 46 women who completed the intervention, and also completed the T 1 questionnaire, and the baseline characteristics of the 73 women in the control group who were still participating at T 1 .
+Although the controls tended to be somewhat older than the women in the intervention group, this difference was not significant, t(1, 117) ¼ 1.75, p ¼ 0.06.
+In addition, no significant differences were found with regard to marital status, 2 ¼ 5.08, p ¼ 0.17, children (children or no children), 2 ¼ 2.92, p ¼ 0.09, or level of physical functioning, t(1,116) ¼ À1.00, p ¼ 0.32.
+Analyses of variance also showed no significant differences in the scores for the SMAS-30, the SPF-IL, or the loneliness questionnaire at T 0 between the 98 women who completed all three questionnaires and the 44 women who dropped out, suggesting that there was no selection bias with respect to these measures.
+Although the drop-outs seemed to score somewhat lower (M ¼ 42.3) on the SMAS-30, F(1, 137) ¼ 3.72, p ¼ 0.06 than those who completed all questionnaires (M ¼ 46.6), this difference was not significant.

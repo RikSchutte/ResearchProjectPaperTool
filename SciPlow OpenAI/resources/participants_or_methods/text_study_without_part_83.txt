@@ -1,0 +1,32 @@
+Materials and Methods
+
+Subjects:
+Subjects in the current study were recruited from the acute inpatient ward and day-care rehabilitation center of the Department of Psychiatry, National Taiwan University Hospital (NTUH), a university-affiliated teaching hospital providing both acute inpatient care and day rehabilitation programs for severe mental disorders. Forty acute remitting inpatients with schizophrenia and 33 stable community-dwelling outpatients with schizophrenia were recruited. The diagnosis of schizophrenia was made and confirmed by 2 board-certificated psychiatrists using the semistructured Diagnostic Interview for Genetic Study-Chinese Version. Subjects with the following conditions were excluded: history of mental retardation, pervasive developmental disorder, traumatic brain injury with consciousness loss, epilepsy, electroconvulsive therapy, and alcohol and/or other psychoactive substance dependence/abuse during the previous 1 year.
+
+Assessments:
+
+Clinical symptom measures:
+The Positive and Negative Syndrome Schedules-Chinese version (PANSS-CH) was used by board-certificated psychiatrists to evaluate the severity of clinical symptoms. The PANSS-CH regrouped into 4 symptom dimensions: negative, disorganization, delusion/hallucination, and excitement. Mean symptom dimension scores were calculated by the summed average of the item scorings included in each dimension.
+
+Social function assessment:
+The Personal and Social Performance Scale (PSP) was used to evaluate social functioning. PSP provides a composite estimate for global social functioning from 4 separate social functional domains: social role performances (PSP_SR), interpersonal relationships (PSP_IP), self-care (PSP_SC), and disturbing and aggressive behaviors (PSP_AG). A global social functioning score of PSP (PSP_GL) could then be generated from the 4 individual PSP functional domain ratings. Higher scores indicate better global functioning.
+
+Neuropsychologic assessments:
+
+Facial affect recognition:
+The computerized Taiwanese version of the facial expression subtest of The Diagnostic Analysis of Non-Verbal Accuracy II (DANVA-2-TW) was used to assess the accuracy for recognition of basic human emotions. The performance index is the percentage of correct categorization.
+
+Selective attention:
+The computerized SPAN is a measure of early visual processing and iconic readout. The performance index was the percentage of correct response.
+
+Visual-spatial working memory:
+The visual-spatial N-back task required subjects to respond when the position of the shaded block in the current stimulus corresponds to that in the nth stimulus back. The performance index is the correct rate.
+
+Sustained attention:
+Sustained attention was assessed with the Continuous Performance Test (CPT). The sensitivity index d′ measures an individual's ability to discriminate the target stimuli from nontarget stimuli.
+
+Trail making tasks:
+The Trail Making Test assessed psychomotor speed and mental flexibility.
+
+Statistical analysis:
+Group comparisons were performed using χ^2 test (for categorical variables) and analysis of variance with post hoc Bonferroni comparisons (for continuous variables). Associations between variables were explored by correlational analyses. Relationships between PSP scores, clinical symptoms, and neurocognitive measures were examined by nonparametric correlational analyses. Multivariate regression analysis was used to explore the relative contributions of demographic characteristic, basic neurocognition, affect recognition, and clinical symptoms to social functions. Statistical significance was set at a P value of less than .05. All statistical analyses were done using SPSS version 10.0.

@@ -1,0 +1,23 @@
+Participants
+Enrollment.
+The recruitment procedure, which targeted people from the general population with mild to moderate depression, started with the publication of an article in a national Dutch newspaper announcing the study.
+The article referred readers to a website, which provided psychoeducation regarding depression and its treatment, explained the purpose and design of the study, and contained an application form.
+Screening.
+Respondents were screened by means of web-administered self-report questionnaires.
+The following exclusion criteria were applied: a score lower than 10 (no depression) or higher than 29 (severe depression) on the Beck Depression Inventory (BDI IA: Beck, Ward, Mendelson, Mock, & Erbaugh, 1961;Beck et al., 1979), age under 18 years, heightened risk of dissociation or psychosis, suicidal ideation, drug and alcohol abuse, use of neuroleptic medication, unstable dosages of other psychiatric medication, concurrent psychotherapy, high anxiety levels, or a prevailing posttraumatic stress or panic disorder.
+Finally, eligible respondents were required to download, print, and return a signed informed consent form.
+Respondents with severe depression (BDI-IA . 29) were referred to a concurrent clinical trial of a faceto-face treatment for severe depression (Dekker et al., 2007).
+Other excluded respondents were referred to their general practitioners or received information concerning mental health centres in their vicinity.
+Risk of dissociation was assessed using the five-item Somatoform Dissociation Questionnaire (Nijenhuis, Spinhoven, Van Dyck, Van der Hart, & Vanderlinden, 1997), using a cutoff score of 8.
+Respondents who scored above this cut-off also completed the longer, more specific Dissociation-Questionnaire (Nijenhuis, Spinhoven, Van Dyck, Van der Hart, & Vanderlinden, 1998).
+Risk of psychosis was attributed to respondents who scored above the cut-off value of 5 on the Hallucination scale of the Screening Device for Psychotic Disorder (Lange, Schrieken, Blankers, Van de Ven, & Slot, 2000).
+Suicidal ideation was measured using an inventory similar to that of Joiner et al.
+(2003).
+Respondents with suicidal plans or a history of recent suicide attempts (within the past 3 years) were excluded.
+High anxiety levels were detected using the Anxiety subscale of the Depression Anxiety Stress Scales (DASS-42 [Lovibond & Lovibond, 1995]; described in the Outcome Measures section).
+Prevailing posttraumatic stress or panic disorder was inferred in respondents who scored higher than 36 on the revised Impact of Events Scale (Weiss & Marmar, 1996;cut-off 36: Neal et al., 1994) or higher than 8 on the self-rated version of the Panic Disorder Severity Scale (Houck, Spiegel, Shear, & Rucci, 2002).
+Medication usage was assessed through open-ended questions concerning the use, including dosage, of prescription and nonprescription medicine.
+Randomization.
+One month after the publication of the newspaper article, participants were randomly assigned to the groups by means of a random number generator.
+Participants were assigned to the treatment group and the control group in a 2:1 ratio.
+Unbalanced randomization was considered a defensible ethical compromise between the interests of the participants and that of the study: the treatment under study was built on evidence-based principles but was not readily available to the public, and the alternative for treatment was the wait-list (Avins, 1998;Edwards & Braunholtz, 2000).

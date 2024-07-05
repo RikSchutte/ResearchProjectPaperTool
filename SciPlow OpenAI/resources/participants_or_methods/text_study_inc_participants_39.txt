@@ -1,0 +1,6 @@
+Participants
+Figure 1 summarizes the enrollment and flow of participants throughout the study.
+Out of 245 individuals assessed for eligibility, 63 (25.7%) were excluded because of a screening CES-D score of >16.
+Another 30 (12.2%) individuals did not provide informed consent.
+Two individuals (1%) withdrew from the study before Internet-based occupational health intervention the baseline assessment and randomization procedure.
+After these exclusions, 150 (61.2%) teachers were randomized to either the iPST or WLC group.

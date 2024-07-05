@@ -1,0 +1,12 @@
+Participants
+Of the 2,374 participants who were assigned to an intervention group 1,598 (67.3 %) participants carried out the intervention, and 622 completed all four follow-up assessments (38.9 % of the participants who carried out the intervention; see Fig.
+1).
+The sample consisted mainly of women (5.4 % men), aged 19-79 (M = 44.87; SD = 10.07).
+Most of the participants (61.4 %) were living with a partner (76.7 % married), 6.3 % were in a partnership but lived alone, 17.4 % were single, 13.5 % were divorced or separated, and 1.4 % were widowed.
+More than half had children (57.6 %).
+The sample was rather well educated: 55.5 % of the participants had a degree from a university or a university of applied sciences, about a fourth had completed vocational training (23.6 %) or a school qualification that allowed them to attend university (19.9 %), and 1.0 % had secondary school education.
+Most of the participants (80.5 %) were employed, 2.6 % were currently unemployed, and the remaining 16.9 % were students, homemakers, or retirees.
+Sample sizes for the replication groups and the placebo control group were n = 61 (IG1; 11.5 % men), n = 87 (IG2; 9.2 % men), n = 73 (IG3; 19.2 % men), and n = 63 (PCG; 22.2 % men).
+The sample sizes for the other groups were n = 64 (IG4), n = 60 (IG5), n = 55 (IG6), n = 62 (IG7), n = 55 (IG8), and n = 42 (IG9).
+The groups did not differ regarding their mean age (F[9, 612] = 1.74, p = .077), education (F[9, 612] = 1.75, p = .075), or marital status (v 2 [3, N = 284] = 6.42, p = .093).
+The replication groups did not differ regarding gender ratio (v 2 [45, N = 622] = 53.41, p = .183).

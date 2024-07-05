@@ -1,0 +1,16 @@
+Participants
+The sample consisted initially of 159 Spanish undergraduate psychology students (142 women, 16 men) at the Universidad Complutense de Madrid.
+They participated voluntarily to obtain partial course credits and were randomly assigned to one of three experimental conditions.
+This sample was reduced by 54 participants due to incomplete data, leaving a total of 105 participants (95 women, 10 men) distributed in the following way: 41 in the gratitude condition, 34 in the any event condition and 30 in the hassles condition.
+The average age was 20.70 years (SD = 1.48).
+We were interested in including in the analysis only those participants who had filled out all the measures at the three moments of measurement and that had done the diary everyday to keep a constant sample size and to test the real effects of the intervention.
+We did not impute missing values because it would affect the experimental variables.
+The maintenance in the analysis of only those participants who had followed the procedure properly was the best way to assess the real effects of the experimental manipulation.
+In order to test if this attrition would affect the results, we repeated the analyses including also those participants who had missed some measurement time or who had skipped the diary some days.
+The results did not change, so we decided to exclude them from the final analysis and keep only those participants who had answered the questionnaires at all times and who had done the diary daily.
+We tested possible differences between the participants that remained in the study and those that were excluded.
+They did not differ statistically in most of the variables assessed, including the most relevant ones, i.e., gratitude and positive affect.
+There was not either a differential drop in the three experimental conditions.
+Nonetheless, we found that those who remained in the study scored higher in depth of the sleep and in the two global appraisals of subjective wellbeing, and lower in number of pain relievers.
+Regarding the final sample, there were differences in concurrent global subjective well-being before the intervention among conditions, F (2, 100) = 3.70, p = .028 The Bonferroni test (p = .041) showed that the hassles group (M = 1.70) scored higher than the gratitude group (M = .97).
+We controlled for this variable in the subsequent analysis.

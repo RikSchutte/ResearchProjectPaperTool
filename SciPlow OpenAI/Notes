@@ -1,0 +1,38 @@
+SciPlow.py reading pdfs
+
+query = 'From the research paper text find the amount of participants who finished all experiments, do not include drop out participants.'
+template = 'Answer by only giving the number, if you can not find an answer write null.'
+model = gpt-3.5-turbo-1106
+costs =~ 0.037€
+tokens =~  37228
+
+chunk(200,25) =>18/40
+chunk(500,100) => 18/40
+chunk(1000,100) => 18/40
+chunk(1000,200) => 26/40
+chunk(1500, 200) => 17/40       40: 22/40
+chunk(1500,300) => 20/40
+chunk(2000,200) => 21/40         40: 25/40
+chunk(2000,400) => 19/40
+chunk(3000, 300) => 18/40        40: 23/40 [28 new model? check out?]
+chunk(3000, 500) => 21/40        40: 26/40 [29 new model? check out?]
+
+
+
+chunk(200,25) =>18/40
+chunk(500,100) => 18/40
+chunk(1000,200) => 26/40
+chunk(2000,400) => 19/40
+chunk(1500,300) => 20/40
+chunk(1000,100) => 18/40
+
+
+query = 'From the research paper text find the amount of participants who finished all experiments, do not include drop out participants.'
+template =         Answer by only giving the number, if you can not find an answer write null.
+model = gpt-4o
+costs =~ 0.?€
+tokens =~ 36735
+
+chunk(1000,200) => 26/40
+chunk(1500,300) => 23/40 (but very different ones correct)
+chunk(1000,300) =>

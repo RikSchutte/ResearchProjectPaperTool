@@ -1,0 +1,9 @@
+Participants
+This article draws on data from the International Youth Development Study, a longitudinal study of the development of students from Victoria, Australia and Washington State, United States who were recruited through schools in grades 5, 7, and 9 in 2002.
+To obtain state representative samples from the two states, a two-stage cluster sampling approach was used.
+In the first stage, within each state and grade level, public and private schools containing grades 5, 7, or 9 were randomly selected using a probability proportionate to grade-level size sampling procedure [27].
+A target classroom within each school was randomly selected in the second stage.
+Further details about recruitment and participation rates are described in McMorris et al [28].
+Data for the current study are taken from participants in the Victorian grade 5 cohort (n ϭ 927) who had complete data in grades 7 and 9 (n ϭ 696; 75% of the original sample).
+No data were collected from this sample in grade 8.
+Participants consisted of 336 males (48.2%) and 360 females (51.8%), aged between 11.9 and 14.4 years (mean age ϭ 12.9 years; standard deviation ϭ .4 years) in seventh grade and between 14.2 and 16.5 in ninth grade (mean age ϭ 15.2 years; standard deviation ϭ .4 years).

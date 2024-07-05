@@ -1,0 +1,25 @@
+Participants
+Between November 2011 and June 2015, patients from 31 hospitals throughout the Netherlands were invited to participate (see Acknowledgments).
+In each hospital, tailored operating procedures were installed for approaching local patients.
+Furthermore, advertisements were placed on selected websites, and patient associations helped spread study information.
+The recruitment period could not be extended due to funding.
+Data collection was finished in June 2016.
+Patients who expressed interest in the study completed online screening questionnaires: the Beck Scale for Suicide Ideation (BSS) [24] and the Center for Epidemiological Studies Depression Scale (CES-D) [25].
+Adult (> 18 years of age) glioma patients with WHO grade II, III or IV glioma, and at least mild depressive symptoms (CES-D score ≥ 12) were invited to participate.
+Similarly, adult (> 18 years of age) patients with non-Hodgkin lymphoma (NHL), chronic lymphatic leukemia (CLL), multiple myeloma (MM), or a myelodysplastic syndrome (MDS) and at least mild depressive symptoms (CES-D score ≥ 12) were invited to participate.
+Exclusion criteria were (1) no access to the internet and/or no email address; (2) insufficient proficiency of the Dutch language; (3) suicidal intent as screened for with the BSS and followed-up by telephone if needed to check the severity of symptoms.
+If patients were excluded based on suicidal intent, their primary care physician was informed.
+All participants provided written informed consent.
+Participants
+In total, we received 308 responses through email, phone calls, or (in)complete screening questionnaires, see Fig. 2 for consort flow diagram.
+Of these, 145 patients could be invited for participation in the study (78.6% glioma, 21.4% non-CNS cancer) and 122 patients agreed to participate (78% glioma, 22% non-CNS cancer).
+Before baseline assessment, 6 glioma patients and 1 non-CNS cancer patient dropped out.
+In total, 89 glioma patients were randomized to either the GI group (N = 45) or the GWL group (N = 44), and 26 non-CNS cancer controls participated.
+The majority of patients were women and had middle to high levels of education, see Table 1.
+Glioma patients most often suffered from a grade II tumor.
+Approximately 76% of glioma patients were using antiepileptic drugs.
+GWL patients experienced more uncertainty concerning the future (M = 52.1, SD = 21.7) than GI patients (M = 42.6, SD = 19.6, p = 0.033).
+No other statistically significant differences were observed.
+Most non-CNS cancer controls were diagnosed with a non-Hodgkin lymphoma (46.2%), other diagnoses were chronic lymphatic leukemia (11.5%), multiple myeloma (11.5%) and myelodysplastic syndrome (11.5%).
+Non-CNS cancer controls were older than patients with glioma (M = 52.8, SD = 9.3 vs M = 45.0, SD = 11.9 p = 0.003); no other statistically significant differences between the groups were observed.
+Outside hospital appointments, patients in all groups reported visiting their primary care physician, company physician, physiotherapist, psychologist/psychiatrist/ counsellor, social worker, substance abuse coach, alternative healer, and self-help group (no statistically significant differences, see Table 1).

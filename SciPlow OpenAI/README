@@ -1,0 +1,14 @@
+INSTALL DEPENDENCIES IN TERMINAL USING COMMAND (install pip first if you don't have it):
+'pip install -r requirements.txt'
+
+You need an OpenAI key with balance on it to make the model work.
+Make an OpenAI account at and then access https://platform.openai.com/api-keys to make the key.
+NOTE! This key will only be shown to you ONCE and it should remain SECRET, it is directly linked to your balance.
+Every time you initialize a prompt or perform some embedding this will use up tokens and subtract money from your account.
+
+You must have a document 'constants.py', in this file you write the following line:
+APIKEY = "ADD_YOUR_API_KEY"
+
+
+SciPlow is for extracting data raw from .pdf files out of folder 'articles'.
+SciPlowTxt is for extracting data from .txt files out of folders 'participants_or_methods' and 'participants_or_resultsmethods'.

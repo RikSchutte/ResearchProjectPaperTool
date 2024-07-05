@@ -1,0 +1,27 @@
+SciPlowTxt.py reading .txt files containing result sections of research papers
+
+query = 'From the research paper text find the amount of participants who finished all experiments, do not include drop out participants: "' + file_text + '"'
+model: gpt-4o
+tokens: 97499
+accuracy: 49.45%
+null: 29
+
+query = 'From the research paper text find the amount of participants "' + file_text + '"'
+tokens: 96316
+accuracy: 50.55%
+null: 8
+
+
+
+SciPlowTxt.py reading .txt on results + methods
+
+query = 'From the research paper text find the amount of participants who finished all experiments, do not include drop out participants: "' + file_text + '"'
+model: gpt-4o
+tokens: 259704
+accuracy: 34.07%
+null: 22
+
+query = 'From the research paper text find the amount of participants "' + file_text + '"'
+tokens: 258576
+accuracy: 34.07%
+null: 3

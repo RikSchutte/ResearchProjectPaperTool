@@ -1,0 +1,35 @@
+Participants
+Participants were recruited through an advertisement in a local newspaper in Jyv€ askyl€ a, Finland.
+The advertisement explained that it was a university research project with an aim to investigate new psychotherapeutical methods in treating individuals who felt depressed.
+In response to the advertisement, 60 prospective participants contacted the clinic through email and telephone during the given time window (February 21e23, 2011), and were screened over the telephone using a structured interviews.
+The most important eligibility criteria, depressive symptoms, were assessed using the following three questions (translated here from Finnish): 1.
+Have you felt sad, low, depressed, or irritable for several days without realizing why?
+2.
+Have you had periods when you have not been interested in things that usually bring you joy?
+3.
+Have you had periods of several days or longer when you were so depressed that nothing could cheer you up?
+To be included in the study, the prospective participants had to answer "yes" to all three questions.
+Additional inclusion criteria were: no simultaneous treatment of depression or other psychological problems, at least 18 years of age, basic computer skills and access to Internet at home.
+Of the 60 people who contacted the clinic, 20 were excluded because either they did not meet the inclusion criteria or would not have been able to commit to the entire program. 40 participants met the inclusion criteria and were matched on gender and randomly assigned to either Internet-based (iACT) or face-to-face group (ACT).
+We were able to offer treatment for 38 participants, so the 38 were selected in the order they had signed in, leaving another two people out of the treatment.
+On client from each group was randomly selected to each therapist.
+Two therapists selected randomly three clients.
+One client dropped out from the face-toface group (ACT) after the third meeting because she reported not needing treatment any longer.
+The study sample size consisted of 38 participants (N ¼ 38), half (n ¼ 19) of which were allocated to face-to-face group (ACT) and the remaining half (n ¼ 19) were assigned to the iACT group.
+Fig. 1 depicts the flow of participants.
+The Ethical Committee of Jyv€ askyl€ a University approved the study protocol.
+Basic demographic information was collected through a questionnaire at the beginning of the study for both groups.
+Table 1 exhibits participants' characteristics.
+Of the 38 participants, majority (68.4%) were women.
+The mean age of participants was 44.61 years (SD ¼ 14.28).
+About half (47.4%) of the participants reported having university education.
+In total, 20 (52.6%) participants reported having a psychiatric diagnosis according to the background questionnaire.
+Among those, 15 (40.5%) participants had depression diagnosis, three participants (8.1%) had depression and other psychiatric diagnosis, and two participants (5.4%) had some other psychiatric diagnosis without depression. 21 participants (56.8%) had previously used antidepressants, and 13 (34.2%) were on depression medication during the study.
+At 18-month follow-up, 8 participants reported being on anti-depressent medication (n ¼ 34; iACT, n ¼ 5; ACT, n ¼ 3).
+There were no significant differences between the groups in terms of basic demographic information, nor change of medication during the study period.
+Depressive symptoms were assessed at three points prior to the actual intervention, i.e. at the screening interview over the phone using three questions concerning depression, at pre-measurement using the Beck's Depression Inventory (BDI-II), and at the baseline interview using the DSM-IV criteria for depressive disorder.
+According to the BDI-II at pre-measurement, the mean for depressive symptoms for all participants (n ¼ 38) was 21.95 (SD ¼ 7.98; min 9, max 40).
+Table 1 illustrates number of participants with mild, moderate or severe depression based on the BDI-II pre-measurement.
+According to the baseline interviews based on the DSM-IV criteria, 11 participants (57.9%) in each group met the DSM-IV criteria for depression.
+The average number of depressive symptoms was 4.63 (SD ¼ 1.21) symptoms in the iACT group and 5.16 (SD ¼ 1.92) in the ACT group.
+The difference between the groups was not significant.

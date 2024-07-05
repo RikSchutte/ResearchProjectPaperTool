@@ -1,0 +1,17 @@
+SciPlow.py reading pdfs
+
+query = 'From the research paper text find the amount of participants who finished all experiments, do not include drop out participants.'
+template = Answer by only giving the number, if you can not find an answer write null.
+Paper amount: 92
+model = gpt-4o
+
+chunk(800,180) => 61.96% 71026 tokens               gpt-3.5-turbo-1106: 54.35%
+chunk(1000,200) => *80.43% 85735 tokens             gpt-3.5-turbo-1106: 59.78%
+chunk(1000,300) => 66.30% 88827 tokens              gpt-3.5-turbo-1106: 57.61%
+chunk(1200,240) => 68.48% 102260 tokens             gpt-3.5-turbo-1106: 55.43%%
+chunk(1500,300) => 69.57% 124164 tokens             gpt-3.5-turbo-1106: 57.61%
+chunk(3000,500) => 63.04% 218981 tokens             gpt-3.5-turbo-1106: 50%
+
+*The recoding was done looking at inconsistencies with these answers.
+It is possible certain null values were not reconsidered that upon checking would
+have yielded higher correct% for the other chunking configurations that returned a value there.
